@@ -7,6 +7,8 @@ GET SUPA RICH!!!!
 
 Mouse1/Touch to shoot explosive projectiles
 
+Trailer: https://youtu.be/VdG3AHRNCqI
+
 Update 1: 
 Added a shop system!
 
@@ -15,3 +17,5 @@ King Sphere Boss Battle
 Different shopkeepers
 Different Products in the shop
 Uhhhh idk
+
+AI Disclosure: ROBLOX Assistant used to debug code
