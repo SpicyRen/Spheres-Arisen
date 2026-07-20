@@ -12,7 +12,7 @@ Mouse1/Touch to shoot explosive projectiles
 
 Game Link: https://www.roblox.com/games/139642928599293/Spheres-Arisen
 
-Trailer: https://youtu.be/VdG3AHRNCqI
+Trailer: https://youtu.be/IqQq9QWIUWQ
 
 Update 1: 
 
